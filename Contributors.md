@@ -97,6 +97,7 @@
 - [Ane S]
 - [Brunda B R]
 - [Alok Paidalwar]
+- [Charmayne7](https://github.com/Charmayne7)
 - [Tomeeka Lilly] (https://github.com/TLillySib/first-contributions)
 - [Felipe Cabeza] (https://github.com/bezaca)
 - [Seth Lewandowski](https://github.com/sethlewandowski)
